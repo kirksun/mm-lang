@@ -1,0 +1,1091 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MM\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-07-31 02:27+0800\n"
+"Last-Translator: Sun <sun@e288.com>\n"
+"Language-Team: Team Adotz <sun@adotz.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "What We Do"
+msgstr "Qué hacemos "
+
+msgid "How We Do It"
+msgstr "Cómo lo hacemos"
+
+msgid "Success Stories"
+msgstr "Casos de éxito"
+
+msgid "Research"
+msgstr "Investigación"
+
+msgid "Overview"
+msgstr "Descripción general"
+
+msgid "Customer Satisfaction"
+msgstr "Satisfacción de los clientes"
+
+msgid "Employee Feedback"
+msgstr "Compromiso de los empleados"
+
+msgid "Performance Benchmarking"
+msgstr "Comparativas con competencia"
+
+msgid "Professional Services"
+msgstr "Servicios profesionales"
+
+msgid "Metrix Blog"
+msgstr "Blog de Metrix"
+
+msgid "Request a Demo"
+msgstr "Solicitud de prueba"
+
+msgid "Client Login"
+msgstr "Acceso clientes"
+
+msgid "Contact Us"
+msgstr "Contacto"
+
+msgid "About Market Metrix"
+msgstr "Acerca de Market Metrix"
+
+msgid "Support"
+msgstr "Soporte"
+
+msgid "News and Press"
+msgstr "Noticias y prensa"
+
+msgid "Newsletter Signup"
+msgstr "Suscripción al boletín"
+
+msgid "Privacy Policy"
+msgstr "Política de privacidad"
+
+msgid ""
+"Thank you for your interest in Market Metrix. A sales representative will "
+"contact you shortly."
+msgstr ""
+"Gracias por su interés en Market Metrix. En breve, un representante se "
+"pondrá en contacto con usted."
+
+msgid "All fields required except as indicated."
+msgstr "Todos los campos son obligatorios excepto que se indique lo contrario."
+
+msgid "First Name"
+msgstr "Nombre"
+
+msgid "Last Name"
+msgstr "Apellidos"
+
+msgid "Title"
+msgstr "Cargo"
+
+msgid "optional"
+msgstr "opcional"
+
+msgid "Company"
+msgstr "Empresa"
+
+msgid "Email"
+msgstr "Correo electrónico"
+
+msgid "Confirm Email"
+msgstr "Confirme el correo electrónico"
+
+msgid "Telephone"
+msgstr "Teléfono"
+
+msgid "Your Message"
+msgstr "Mensaje"
+
+msgid "Sign up for the Market Metrix Newsletter (optional)"
+msgstr "Suscribirse al boletín informativo de Market Metrix (opcional) "
+
+msgid "Request a demo"
+msgstr "Solicite una demostración de producto"
+
+msgid "Request a demo of our feedback intelligence platform."
+msgstr ""
+"Solicite una demostracón de nuestra plataforma inteligente para la gestión "
+"de feedback."
+
+msgid "Thank you"
+msgstr "¡gracias"
+
+msgid ""
+"We send out newsletter updates only when we have something important to "
+"share, about every month or so. And we'll never share your personal "
+"information."
+msgstr ""
+"Únicamente enviamos actualizaciones del boletín informativo cuando tenemos "
+"algo importante que queremos compartir, aproximadamente una vez al mes. Y "
+"jamás publicamos información personal."
+
+msgid "You have successfully signed up for the Market Metrix Newsletter."
+msgstr "Se ha suscrito correctamente al boletín informativo de Market Metrix."
+
+msgid "Send Request"
+msgstr "Enviar solicitud"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Signup"
+msgstr "Suscribirse"
+
+msgid ""
+"Thank you for your interest in Market Metrix.<br />A sales representative "
+"will contact you shortly to schedule a customized demo."
+msgstr ""
+"Gracias por su interés en Market Metrix.<br />En breve, un representante de "
+"ventas se pondrá en contacto con usted para programar una prueba "
+"personalizada."
+
+msgid "Market Metrix can be an integral part of your growth strategy."
+msgstr ""
+"Market Metrix puede ser una parte integral de su estrategia de crecimiento."
+
+msgid "Support is available for our customers."
+msgstr ""
+"Nuestros clientes tienen a su disposición nuestro servicio de soporte "
+"personalizado. "
+
+msgid "Call us, or fill out the support request form below."
+msgstr ""
+"Llámenos o cumplimente el siguiente formulario de solicitud de soporte."
+
+msgid "San Francisco, U.S.A."
+msgstr "San Francisco (EE. UU.)"
+
+msgid "Barcelona, Spain"
+msgstr "Barcelona (España)"
+
+msgid "Singapore"
+msgstr "Singapur"
+
+msgid "Submit Support Request"
+msgstr "Enviar solicitud de soporte"
+
+msgid ""
+"You have successfully submitted your support request. A Market Metrix "
+"representative will contact you shortly."
+msgstr ""
+"Su solicitud de soporte se ha enviado correctamente. En breve, un "
+"representante de Market Metrix se pondrá en contacto con usted."
+
+msgid ""
+"Connect feedback to results with the hospitality industry’s leading feedback "
+"intelligence platform."
+msgstr ""
+"Vincule el feedback de sus clientes con los resultados económicos gracias a "
+"la plataforma inteligente para la gestión de feedback líder del sector de "
+"hostelería y servicios. "
+
+msgid "Our Process"
+msgstr "Nuestro proceso"
+
+msgid "Feedback"
+msgstr "Captación de feedback"
+
+msgid "Before, during and after stay"
+msgstr "Antes, durante y después de la estancia."
+
+msgid ""
+"Open a dialogue with guests sooner, and engage them throughout their stay. "
+"Market Metrix offers a range of ways to get feedback at any point of "
+"experience."
+msgstr ""
+"Tarde menos en entablar un diálogo con sus clientes durante su estancia. "
+"Market Metrix ofrece un amplio abanico de modos de obtener comentarios "
+"durante cualquier momento  de la experiencia."
+
+msgid "Case Management"
+msgstr "Gestión de casos"
+
+msgid "For instant service resolution <br />and recovery"
+msgstr ""
+"Para la resolución de los problemas y incidencias de<br /> forma instantánea."
+
+msgid ""
+"Win back guest satisfaction when things go wrong to turn potential negative "
+"reviews into online raves. Market Metrix Case Management alerts you to "
+"problems, directs recovery, tracks progress and even manages follow-up  "
+"communication with the guest."
+msgstr ""
+"Recupere la satisfacción de sus clientes cuando éstos experimenten "
+"problemas, convertiendo posibles críticas negativas en futuros comentarios "
+"positivos . Con el sistema de gestión de casos Market Metrix Case Management "
+"podrá identificar los problemas, dirigir el proceso de resolución, realizar "
+"un seguimiento de la evolución del caso y gestionar la comunicación de "
+"seguimiento con el cliente."
+
+msgid "Benchmarking"
+msgstr "Comparativas con competencia"
+
+msgid "To spot gaps and opportunities"
+msgstr "Para detectar puntos fuertes y débiles."
+
+msgid ""
+"Measure your performance by brand or property against your competitors to "
+"learn where you have an advantage, or room for improvement. The Market "
+"Metrix Hospitality Index (MMHI) is the world’s richest source of benchmark "
+"data."
+msgstr ""
+"Cuantifique sus datos de satisfacción en comparación con los de su "
+"competencia para saber dónde tiene ventaja o margen de mejora. El índice "
+"Market Metrix Hospitality Index (MMHI) es la fuente de datos de referencia "
+"más completa del mundo para el sector de hostelería."
+
+msgid "Analytics"
+msgstr "Análisis"
+
+msgid ""
+"Turn data into insight, and<br /> connect feedback to cost<br /> and revenue"
+msgstr ""
+"Convierta datos en conocimientos, y vincule el feedback  con costes e "
+"ingresos."
+
+msgid ""
+"Connect feedback with financial impact, and turn data into performance. Our "
+"cost-of-problems model lets you see how guest problems affect loyalty, and "
+"how much they cost you."
+msgstr ""
+"Asocie los comentarios con el impacto económico, y haga de los datos una "
+"fuente de rendimiento. Nuestro modelo de coste de los problemas permite ver "
+"cómo los problemas de los clientes afectan a la fidelidad y qué coste tienen."
+
+msgid "Flexible Reporting"
+msgstr "Informes flexibles"
+
+msgid "Puts feedback to work across<br /> your organization"
+msgstr "Los datos de satisfacción, al servicio de toda la organización."
+
+msgid ""
+"See what's important to you with completely configurable and customizable "
+"dashboards. Start with our role-based views, then choose from dozens of "
+"reporting widgets to create the view you want."
+msgstr ""
+"Vea lo que es más importante para usted gracias a los paneles totalmente "
+"configurables y personalizables. Empiece con las vistas basadas en roles y, "
+"luego, elija de entre docenas de aplicaciones de informes para crear la "
+"vista que desea."
+
+msgid "Results"
+msgstr "Resultados"
+
+msgid "Grow revenue, improve loyalty and create promoters"
+msgstr "Aumente los ingresos, potencie la fidelidad y cree prescriptores."
+
+msgid ""
+"When you put feedback to work across your organization, you grow revenue, "
+"improve loyalty, create promoters and reduce problems."
+msgstr ""
+"Al poner los datos de satisfacción al servicio de la organización, crecen "
+"los ingresos, aumenta la fidelidad, se consiguen prescriptores y se reducen "
+"los problemas."
+
+msgid "Market Metrix Timeline"
+msgstr "Cronología de Market Metrix"
+
+msgid "MMHI Global launches"
+msgstr "Lanzamiento del Market Metrix Hospitality Index Global"
+
+msgid "APAC operations open in Singapore"
+msgstr "Inicio de las operaciones para APAC en Singapur"
+
+msgid "EMEA operations open in Barcelona"
+msgstr "Inicio de las operaciones para EMEA en Barcelona"
+
+msgid "First to partner with TripAdvisor for social review data"
+msgstr "Primera empresa en asociarse con TripAdvisor"
+
+msgid "'Best Paper' award from Cornell Hotel and Restaurant Quarterly"
+msgstr ""
+"\"Best Paper\" premio otorgado por Cornell Hotel y Restaurant Quarterly"
+
+msgid "Hospitality Segmentation model created"
+msgstr "Creación del modelo de segmentación para hostelería"
+
+msgid "Market Metrix Hospitality Index launched (MMHI)"
+msgstr "Lanzamiento del índice Market Metrix Hospitality Index (MMHI)"
+
+msgid "Emotions questions introduced"
+msgstr "Introducción de las preguntas sobre emociones"
+
+msgid "First 'Software-as-a-Service' solution for customer satisfaction"
+msgstr "Primera solución de SaaS para medir la satisfacción de los clientes "
+
+msgid "First email survey for hotels"
+msgstr "Primera encuesta por correo electrónico para hoteles"
+
+msgid "Jonathan teams up with Lenny Nash. Market Metrix is born."
+msgstr "Nacimiento de Market Metrix por Jonathan Barsky y Leonard W. Nash"
+
+msgid "Dr. Jonathan Barsky publishes World Class Customer Satisfaction"
+msgstr "Publicación de World Class Customer Satisfaction por Jonathan Barsky"
+
+msgid "We measure hospitality around the world."
+msgstr "Cuantificamos el sector de la hostelería en todo el mundo."
+
+msgid "Read customer success stories"
+msgstr "Lea casos de éxito de clientes"
+
+msgid "Market Metrix connects customer satisfaction with revenue."
+msgstr "Market Metrix vincula la satisfacción de los clientes con los ingresos"
+
+msgid "And we're the only feedback platform that does."
+msgstr "Y somos la única plataforma de gestión de feeback que lo hace."
+
+msgid "Do you know how much your problems are costing?"
+msgstr "¿Sabe cuánto cuestan sus problemas?"
+
+msgid "Learn more about"
+msgstr "Sepa más acerca de"
+
+msgid "what we do"
+msgstr "lo que hacemos"
+
+msgid "Our clients love their TripAdvisor scores."
+msgstr "Nuestros clientes adoran las puntuaciones de TripAdvisor"
+
+msgid ""
+"Actual comparison of Market Metrix customer and competitors' satisfaction "
+"scores by quarter, as reported in TripAdvisor."
+msgstr ""
+"Comparación real de las puntuaciones trimestrales de satisfacción "
+"correspondientes a los clientes de Market Metrix y a la competencia "
+"publicadas en TripAdvisor."
+
+msgid "Solve problems before they become bad reviews."
+msgstr "Solucione los problemas antes de que se conviertan en malas críticas."
+
+msgid "how we do it."
+msgstr "Sepa cómo lo hacemos."
+
+msgid "Learn"
+msgstr "Sepa"
+
+msgid "Anywhere Collection"
+msgstr "Múltiples modos de recopilación"
+
+msgid ""
+"Automate follow-up messages based on guest feedback to encourage promoters "
+"and recover detractors."
+msgstr ""
+"Automatice la personalización de los mensajes de agradecimiento post-"
+"encuesta según las respuestas de cada cliente de forma que podrá alentar a "
+"los prescriptores y recuperar a los detractores."
+
+msgid "Configurable Dashboards"
+msgstr "Paneles configurables"
+
+msgid ""
+"Monitor guest satisfaction in real-time with dashboards customized by role "
+"within your organization."
+msgstr ""
+"Supervise la experiencia y feedback de los clientes a tiempo real mediante "
+"el uso de paneles gráficos personalizables por rol o persona en el seno de "
+"su organización."
+
+msgid "Online Reviews"
+msgstr "Comentarios<br />en páginas de<br /> opinión"
+
+msgid "Track online review data along with your guest feedback."
+msgstr "Monitorice los comentarios realizados en las páginas de opinión. "
+
+msgid "Benchmark Comparisons"
+msgstr "Comparativa con índices de industria y otras cadenas"
+
+msgid ""
+"Gauge performance against the richest source of independent customer "
+"satisfaction data available."
+msgstr ""
+"Compare su rendimiento con el de las grandes cadenas a nivel mundial gracias "
+"a nuestra base de datos de satisfacción de clientes de hostelería más "
+"completa actualmente disponible."
+
+msgid ""
+"Respond immediately to guest comments, requests, and complaints by "
+"automatically assigning tasks and monitoring performance."
+msgstr ""
+"Responda de inmediato a los comentarios, solicitudes y quejas de los "
+"clientes al asignar automáticamente tareas y supervisar su resolución."
+
+msgid "Deep Analytics"
+msgstr "Análisis en profundidad"
+
+msgid ""
+"Turn feedback into insight with a range of analytics, including cost of "
+"problems model, service value metrics, and semantic analysis."
+msgstr ""
+"Convierta las encuestas  en conocimiento gracias a toda una gama de "
+"análisis, como el modelo económico que cuantifica el coste de los problemas, "
+"los análisis estadísticos que identifican las áreas con mayor impacto en la "
+"lealtad de los clientes  y los análisis semánticos de los comentarios."
+
+msgid "TripAdvisor Booster"
+msgstr "Potenciador de TripAdvisor"
+
+msgid "Marketing Follow Up"
+msgstr "Mensajes personalizados"
+
+msgid ""
+"Gather survey feedback through email, phone, website, kiosk, QR code and "
+"more throughout the guest experience."
+msgstr ""
+"Recabe datos de encuestas a través del correo electrónico, teléfono, sitio "
+"Web, punto de información, código QR y otras opciones antes, durante y "
+"después de la estancia de los clientes."
+
+msgid ""
+"Boost your TripAdvisor scores by automatically posting every completed "
+"survey."
+msgstr ""
+"Incremente las puntuaciones de TripAdvisor al publicar automáticamente las "
+"encuestas completadas."
+
+msgid ""
+"Market Metrix lets us start conversations with our customers sooner. Now we "
+"handle any issues during their stay-before they post to the world."
+msgstr ""
+"Market Metrix nos permite iniciar conversaciones con los clientes antes de "
+"que sea demasiado tarde. Ahora podemos identificar los problemas de nuestros "
+"clientes durante su estancia, antes de que lo compartan con todo<br /> el "
+"mundo."
+
+msgid "Cheryl Billio <br />Vice President of Quality <br />Red Roof Inns"
+msgstr "Cheryl Billio <br />Vicepresidenta de calidad <br />Red Roof Inns"
+
+msgid ""
+"<p><strong>Market Metrix is the only feedback intelligence platform that "
+"connects satisfaction with revenue.</strong> Delivering more firsts and "
+"breakthroughs in customer satisfaction than anyone else, Market Metrix "
+"brings together your sources of feedback with analytics, reporting and know-"
+"how. Our cost-of-problems model and service-value metrics are the only way "
+"to both understand guest feedback and know the impact in dollars and cents.</"
+"p>"
+msgstr ""
+"<p><strong>Market Metrix es la única plataforma inteligente para la gestión "
+"de feedback  que vincula satisfacción e ingresos.</strong> Al proporcionar "
+"más avances en el ámbito de la satisfacción de los clientes que nadie, "
+"Market Metrix aúna sus fuentes de captación de feedback con análisis, "
+"informes y conocimientos especializados. Nuestro modelo de coste de los "
+"problemas y las mediciones de valor del servicio son el único modo de "
+"comprender los comentarios de los clientes y, al mismo tiempo, conocer el "
+"impacto económico que tienen.</p>"
+
+msgid ""
+"It's easy to know which moves to make when you know what problems are worth."
+msgstr ""
+"Es fácil decidir qué medidas correctivas adoptar cuando se sabe qué cuestan "
+"los distintos tipos de problemas experimentados por los clientes."
+
+msgid "Customer Metrix: Benefits & Features"
+msgstr "Customer Metrix: Características y ventajas"
+
+msgid ""
+"86% of our clients who use Employee <br />Metrix to manage employee "
+"engagement see customer satisfaction rise significantly during the first two "
+"years."
+msgstr ""
+"El 86% de los clientes que utilizan Employee Metrix para gestionar el "
+"compromiso de los empleados ven un significativo incremento de la "
+"satisfacción de los clientes durante los dos primeros años."
+
+msgid "Employee Metrix: Benefits & Features"
+msgstr "Employee Metrix: Características y ventajas"
+
+msgid "Jane Howard<br />Chief People Officer<br />Joie do Vivre Hotels"
+msgstr ""
+"Jane Howard<br />Directora de recursos humanos<br />Joie do Vivre Hotels"
+
+msgid ""
+"We intuitively knew that treating people well would help business, but we "
+"had no idea how to measure and manage the process. Market Metrix gave us the "
+"platform and measures we needed to build and value our culture."
+msgstr ""
+"Instintivamente sabíamos que tratar bien a la plantilla ayudaría a nuestro "
+"negocio, pero no teníamos ni idea de cómo medir y gestionar el proceso. "
+"Market Metrix nos ha facilitado la plataforma y las medidas que "
+"necesitábamos para crear y valorar nuestra cultura."
+
+msgid ""
+"<strong>Our proven approach measures employee feedback <br />along the "
+"dimensions that affect business performance,<br /> both emotional and "
+"rational.</strong></p><p>The business results can be astonishing. One "
+"typical client attributed business improvement of more than $14M to their "
+"employee engagement program.</p>"
+msgstr ""
+"<strong>Nuestro método totalmente acreditado cuantifica el feedback de los "
+"empleados junto con los aspectos que afectan al rendimiento del negocio, "
+"tanto emocionales como racionales.</strong></p><p>Los resultados "
+"empresariales pueden ser asombrosos. Un cliente nuestro atribuyó un "
+"incremento del negocio de más de 14 millones de dólares a las mejoras "
+"propiciadas por nuestro programa de gestión de los empleados.</p>"
+
+msgid "Comprehensive Survey Design"
+msgstr "Diseño exhaustivo de las encuestas"
+
+msgid "Employee Participation"
+msgstr "Participación de los empleados"
+
+msgid "Deep Reporting"
+msgstr "Informes con gran nivel de detalle"
+
+msgid "Action Management"
+msgstr "Gestión de las acciones"
+
+msgid "Personalized Consulting"
+msgstr "Asesoramiento personalizado"
+
+msgid "Increased Loyalty"
+msgstr "Aumento de la fidelidad"
+
+msgid "Transparent View"
+msgstr "Transparencia total"
+
+msgid "Stronger<br>Decisions"
+msgstr "Decisiones<br> más sólidas"
+
+msgid ""
+"Our survey design reflects experiences gained through 15 years conducting "
+"employee satisfaction programs. And we have designed surveys in over 30 "
+"languages."
+msgstr ""
+"El diseño de las encuestas pone de manifiesto los conocimientos adquiridos "
+"desde 1996 en elaboración de programas de medición y mejora del compromiso "
+"de los empleados. Y hemos diseñado encuestas en más de 30 idiomas."
+
+msgid ""
+"We make participation easy while ensuring security and anonymity. Survey "
+"delivery by email and kiosks, with phone and paper survey options also "
+"available."
+msgstr ""
+"Hacemos que la participación sea sencilla, garantizando en todo momento la "
+"seguridad y el anonimato. Las encuestas se entregan por correo electrónico y "
+"en puntos de información, aunque también puede hacerse por teléfono y en "
+"papel."
+
+msgid ""
+"Results are available through online reporting with summary dashboards, "
+"drill-down detail and comparisons to industry benchmarks."
+msgstr ""
+"Los resultados están disponibles a través de informes en línea con paneles "
+"gráficos de resumen, datos pormenorizados y comparaciones con los referentes "
+"del sector."
+
+msgid ""
+"Achieve continous improvement through action management. Action plans are "
+"created based on survey results, feedback, and best-practice knowledgebase."
+msgstr ""
+"Consiga una mejora constante gracias a la creación y seguimiento de planes "
+"de acciones de mejora. Los planes de acción se crean en función de los "
+"resultados de encuestas, comentarios y una base de conocimientos de mejores "
+"prácticas."
+
+msgid ""
+"We provide personalized guidance on how to interpret survey results and how "
+"to most effectively use our online analysis and action planning tools."
+msgstr ""
+"Proporcionamos orientación personalizada sobre cómo interpretar los "
+"resultados de las encuestas y cómo utilizar de la forma más eficaz posible "
+"nuestras herramientas de análisis y planificación de las acciones."
+
+msgid ""
+"Increase employee loyalty and commitment by better understanding key "
+"drivers, monitoring performance and responding to problems."
+msgstr ""
+"Incremente la fidelidad y el compromiso de los empleados al comprender mejor "
+"los aspectos clave, supervisar el rendimiento y responder a sus problemas."
+
+msgid ""
+"Improve management visibility and accountability by providing a clear view "
+"of performance across the organization."
+msgstr ""
+"Incremente la visibilidad de la gestión y la rendición de cuentas al "
+"proporcionar una clara visión del rendimiento en toda la organización."
+
+msgid ""
+"Make better investments and decisions by understanding what really matters "
+"to your employees."
+msgstr ""
+"Sepa qué es lo que realmente importa a sus empleados para poder realizar "
+"mejores inversiones y tomar decisiones más fundamentadas."
+
+msgid "Profit from feedback is a science <br />at Market Metrix."
+msgstr ""
+"En Market Metrix, los beneficios que generan el feedback son una ciencia."
+
+msgid "How We Help"
+msgstr "Cómo ayudamos"
+
+msgid ""
+"<strong>It takes more than just a platform to connect feedback with "
+"performance.</strong><br />You need know-how because every company is "
+"different. Market Metrix has <br />built hundreds of successful feedback "
+"programs. We dedicate experienced pros <br />who work with you to shape the "
+"program that works for you."
+msgstr ""
+"<strong>No basta con una plataforma para vincular feedback y rendimiento.</"
+"strong><br />Se necesitan conocimientos especializados porque cada empresa "
+"es distinta. Market Metrix ha adaptado su plataforma a la casuística "
+"específica de cientos de clientes. Ponemos a los profesionales más "
+"experimentados a trabajar con usted para diseñar el programa idóneo para su "
+"empresa."
+
+msgid "I love working with Market Metrix."
+msgstr "Me encanta trabajar con Market Metrix."
+
+msgid "Connect feedback with dollars and sense."
+msgstr "Vincule el feedback con impacto económico."
+
+msgid ""
+"<strong>Know the cost of problems</strong> and the value of opportunities to "
+"make smarter investments."
+msgstr ""
+"<strong>Conozca el coste de los problemas</strong> y el valor de las "
+"oportunidades para poder realizar inversiones más inteligentes."
+
+msgid ""
+"<strong>Isolate the drivers</strong> of loyalty and value to optimize guest "
+"experience."
+msgstr ""
+"<strong>Identifique los aspectos</strong> que potencian la fidelidad y el "
+"valor para optimizar la experiencia de los clientes."
+
+msgid "<strong>Dig deeper</strong> with service-specific analytics."
+msgstr ""
+"<strong>Profundice en los resultados</strong> con análisis detallados de la "
+"experiencia de cliente."
+
+msgid "Spot gaps and opportunities"
+msgstr "Identifique puntos fuertes y débiles"
+
+msgid ""
+"<strong>Benchmark performance</strong> against the richest source of "
+"independent customer sat data available."
+msgstr ""
+"<strong>Compare sus datos de satisfacción</strong> con los de su competencia "
+"gracias a la base de datos de satisfacción de la industria hotelera más "
+"completa actualmente disponible."
+
+msgid ""
+"<strong>Gain practical know-how</strong> based on years of award-winning "
+"research and breakthroughs."
+msgstr ""
+"<strong>Obtenga conocimientos prácticos</strong> basados en años de estudios "
+"y avances galardonados."
+
+msgid "<strong>Apply best practices</strong> built into platform."
+msgstr ""
+"<strong>Aplique las mejores prácticas</strong> integradas en la plataforma."
+
+msgid "Deliver <br>satisfaction <br>when it counts"
+msgstr "Ofrezca satisfacción<br> cuando importa"
+
+msgid ""
+"<strong>Act on guest feedback instantly</strong> to resolve missteps before "
+"they can become negative reviews."
+msgstr ""
+"<strong>Actúe sobre los comentarios de los clientes al instante</strong> "
+"para resolver los errores antes de que se puedan convertir en críticas "
+"negativas."
+
+msgid ""
+"<strong>Create accountability</strong> at the point of service for "
+"performance in the moments that count."
+msgstr ""
+"<strong>Fomente la responsabilidad</strong> en el punto de servicio para "
+"lograr el máximo rendimiento en los momentos clave."
+
+msgid ""
+"<strong>Build dynamic guest dialogue</strong> to optimize experiences "
+"before, during and after stay."
+msgstr ""
+"<strong>Entable un diálogo dinámico con los clientes</strong> para optimizar "
+"las experiencias antes, durante y después de la estancia."
+
+msgid "Ica van Eeden<br />Chief Customer Officer <br />Sun International"
+msgstr ""
+"Ica van Eeden<br />Directora de servicio al cliente<br />Sun International"
+
+msgid ""
+"<strong>Our team members are the most experienced in the business.</strong> "
+"They act as an extension of your team to design, implement and manage the "
+"feedback program that meets your needs and achieves your goals."
+msgstr ""
+"Los miembros de nuestro equipo son los profesionales con mayor experiencia "
+"en el sector. Actúan como una extensión de su organización para diseñar, "
+"implantar y administrar el programa de gestión de feedback que satisfaga sus "
+"necesidades y le permita alcanzar los objetivos."
+
+msgid ""
+"Contact us to hear more<br /> about how we can work<br /> with your team."
+msgstr ""
+"No dude en contactar con nosotros para obtener más información sobre cómo "
+"podemos trabajar con su organización."
+
+msgid ""
+"At our very core, Market Metrix is experience, knowledge and passion. We "
+"bring this to each new project and challenge."
+msgstr ""
+"La experiencia, los conocimientos y la pasión son la esencia misma de Market "
+"Metrix. Y estos valores están presentes en todos y cada uno de los nuevos "
+"proyectos y desafíos que emprendemos. "
+
+msgid "Satisfaction Audit"
+msgstr "Auditoría de satisfacción"
+
+msgid ""
+"How well are you capturing critical feedback from your clients and "
+"employees?  Is it the right feedback, and is it telling you what you need to "
+"know?  Market Metrix consultants are experts at evaluating and designing "
+"feedback programs."
+msgstr ""
+"¿Captura el feedback  de clientes y empleados de forma eficaz? ¿La "
+"información que recaba es la correcta y le dice lo que necesita saber? Los "
+"asesores de Market Metrix son expertos en la evaluación y diseño de "
+"programas de gestión de feedback."
+
+msgid "Best Practices Coaching"
+msgstr "Formación en mejores prácticas"
+
+msgid ""
+"Gathering feedback is one thing, but acting on it is another.  Market Metrix "
+"can help your teams focus on the most important changes you need to make to "
+"improve your business processes."
+msgstr ""
+"Recopilar feedback es una cosa, pero saber cómo actuar a partir del mismo es "
+"otra muy distinta. Market Metrix le ayudará a centrarse en las mejoras más "
+"prioritarias que más impacto tienen en sus procesos empresariales de cara a "
+"incrementar el nivel de satisfacción y lealtad de sus clientes."
+
+msgid "Market Segmentation"
+msgstr "Segmentación del mercado"
+
+msgid ""
+"Not every customer is the same. Market Metrix' proprietary segmentation "
+"model lets you evaluate your customer mix vs. your competitors to find the "
+"most valuable opportunities."
+msgstr ""
+"No todos los clientes son iguales. El modelo de segmentación patentado por "
+"Market Metrix permite evaluar la composición de la clientela propia respecto "
+"a la de la competencia para detectar las oportunidades más valiosas."
+
+msgid "Advanced  Analytics"
+msgstr "Análisis avanzados"
+
+msgid ""
+"Customer feedback programs generate lots of valuable data. Market Metrix "
+"analysts can work with you to perform custom analyses, modeling and reports "
+"to discover new insights and upside potential."
+msgstr ""
+"Los programas de gestión de feedback de los clientes generan muchos datos de "
+"gran valor. Los analistas de Market Metrix pueden trabajar con usted para "
+"realizar análisis, modelos e informes personalizados que permitan obtener "
+"nuevos conocimientos y descubrir potencial de mejora."
+
+msgid ""
+"<p><strong>Social media content alone can’t measure up.</strong> Online "
+"reviews and comments are helpful. But social media over-represent passionate "
+"extremes, and leave out critical demographic segments like adults 50+.</p> "
+"<p>Hospitality Index—MMHI—is based on surveys of 40,000 travelers around the "
+"globe each quarter.  Their answers tell you what guests think about their "
+"experiences with nearly 300 hotel and casino brands—what they love, and what "
+"drives them crazy.</p>"
+msgstr ""
+"<strong>El contenido de las páginas de opinión en Internet por sí solo no es "
+"una herramienta de medida.</strong> Los comentarios y las críticas en "
+"Internet son útiles, pero las páginas de internet sobrerrepresentan los "
+"extremos más apasionados, y no tienen en cuenta segmentos demográficos "
+"críticos como los adultos de más de 50 años.<br /><br />El índice Market "
+"Metrix Hospitality Index (MMHI) se basa en encuestas trimestrales de 40 000 "
+"viajeros de todo el mundo. Sus respuestas muestran lo que los clientes "
+"piensan de sus experiencias en casi 300 marcas de hoteles y casinos, lo que "
+"les gusta y también lo que detestan."
+
+msgid ""
+"There have been so many success stories it's hard to know which ones to "
+"share."
+msgstr ""
+"Hemos tenido tantos casos de éxito con MarketMetrix que es difícil saber "
+"cuáles<br /> compartir."
+
+msgid "Manuel Riego<br />Director of R&D<br />Melia Hotels International"
+msgstr "Manuel Riego<br />Director de I+D<br />Meliá Hotels International"
+
+msgid "The Best in the World"
+msgstr "Los mejores del mundo"
+
+msgid ""
+"MMHI offers unlimited benchmarking details—three global regions, eight "
+"industry segments, hundreds of brands and over one hundred product and "
+"service attributes."
+msgstr ""
+"El índice MMHI ofrece datos ilimitados para compararse: tres regiones "
+"globales, ocho segmentos de mercado, cientos de marcas y más de un centenar "
+"de atributos. "
+
+msgid "View by Region"
+msgstr "Vista por región"
+
+msgid "Americas"
+msgstr "América"
+
+msgid "Europe"
+msgstr "Europa"
+
+msgid "Asia Pacific"
+msgstr "Asia-Pacífico"
+
+msgid "North, Central, South"
+msgstr "Norte, Central, Sur"
+
+msgid "Including Middle East & Africa"
+msgstr "Incluye Oriente Medio y África"
+
+msgid "Including Asia Pacific"
+msgstr "Región Asia-Pacífico incluida"
+
+msgid ""
+"<em class=\"ms-700\" onclick=\"javascript:lm('overlay')\" style=\"cursor:"
+"pointer;\">Learn more</em> about the benefits and deep data in MMHI."
+msgstr ""
+"<em class=\"ms-700\" onclick=\"javascript:lm('overlay')\" style=\"cursor:"
+"pointer;\">Obtenga más información </em> sobre las ventajas y datos "
+"exhaustivos de MMHI."
+
+msgid "Performance Leaders"
+msgstr "Líderes de satisfacción"
+
+msgid "Segment Average"
+msgstr "Media del segmento"
+
+msgid "Gaming Satisfaction"
+msgstr "Satisfacción en el sector del juego"
+
+msgid "Read the case study"
+msgstr "Lea el estudio del caso"
+
+msgid "Directions"
+msgstr "dirección"
+
+msgid "Get in touch"
+msgstr "Contacto"
+
+msgid "To submit a support request, please use our"
+msgstr "Para enviar una solicitud de ayuda, por favor use nuestro"
+
+msgid "For support related requests and assistance, please fill out the"
+msgstr "Para enviar una solicitud de ayuda, por favor use nuestro"
+
+msgid "support form"
+msgstr "formulario"
+
+msgid "All rights reserved"
+msgstr "Todos los derechos reservados"
+
+msgid "Q3 2012"
+msgstr "3.er trim. de 2012"
+
+msgid "View by Score Type"
+msgstr "Vista por tipo de puntuación"
+
+msgid "Satisfaction"
+msgstr "Satisfacción"
+
+msgid "Loyalty"
+msgstr "Fidelidad"
+
+msgid "Red Roof Solves Guest Problems in Real Time to Generate Online Raves"
+msgstr ""
+"Red Roof solventa los problemas de los clientes a tiempo real y genera "
+"comentarios positivos en la red"
+
+msgid "The ROI of Culture"
+msgstr "La rentabiliad de tener una cultura orientada al cliente"
+
+msgid ""
+"Tropicana Connects with Employees <br />and Guests to Regain Reputation "
+"and<br /> Drive Revenue"
+msgstr ""
+"Tropicana conecta con los empleados y clientes para recuperar la reputación "
+"e incrementar los ingresos"
+
+msgid ""
+"Meliá Moves Satisfaction Surveys Online to Drive Continuous Service "
+"Improvement and Business Performance"
+msgstr ""
+"Meliá evoluciona de un sistema de encuestas presencial en papel a la "
+"plataforma Market Metrix para lograr una mejora continua del servicio"
+
+msgid "Continuous Guest and Employee Feedback Give Danat a Performance Edge"
+msgstr ""
+"El feedback constante de clientes y empleados brinda a Danat una ventaja "
+"competitiva"
+
+msgid "Constance Hotels Builds Rock-Solid Customer Experiences"
+msgstr "Constance Hotels construye experiencias para sus clientes"
+
+msgid "Log into a Market Metrix product."
+msgstr "Acceso a las soluciones Market Metrix."
+
+msgid "View All"
+msgstr "Ver todos"
+
+msgid "News"
+msgstr "Noticias"
+
+msgid "Press Releases"
+msgstr "Notas de prensa"
+
+msgid "Connect customer feedback with revenue."
+msgstr "Mida y vincule satisfacción de clientes con ingresos."
+
+msgid "Manage employee feedback and engagement."
+msgstr "Gestione el compromiso de sus empleados."
+
+msgid "Analyze and manage TripAdvisor guest reviews."
+msgstr "Analice y gestione los comentarios en TripAdvisor."
+
+msgid "View by Topic"
+msgstr "Ver por tema"
+
+msgid "View by Type"
+msgstr "Ver por tipo"
+
+msgid "Sign In"
+msgstr "Alta"
+
+msgid "Award-winning research, articles and education. Yours for the asking."
+msgstr "Artículos, estudios especializados y mejores prácticas."
+
+msgid ""
+"<strong>For the latest thinking by our experts, check out <a href=\"/blog/\" "
+"class=\"blue_link\" style=\"padding-left:0px;font-weight:bold\">Metrix Blog</"
+"a></strong>."
+msgstr ""
+"<a href=\"/blog/\" class=\"blue_link\" style=\"padding-left:0px;font-weight:"
+"bold\">Metrix Blog</a> para saber últimas investigaciones de nuestros "
+"expertos"
+
+msgid ""
+"Register for free access to exclusive Market Metrix content. Your "
+"information is always secure and private, and we will never share your "
+"information with anyone."
+msgstr ""
+"Registro para acceder gratuitamente al contenido exclusivo de Market Metrix. "
+"Los datos facilitados son totalmente seguros y privados, Market Metrix nunca "
+"los compartirá con nadie."
+
+msgid "Password"
+msgstr "Palabra Clave"
+
+msgid "Confirm password"
+msgstr "Confirme Palabra Clave"
+
+msgid "Sign in to access our research documents."
+msgstr "Darse de alta para acceder a nuestros estudios"
+
+msgid "Password Help"
+msgstr "Palabra Clave Ayuda"
+
+msgid "Return to Research"
+msgstr "Volver a Investigación"
+
+msgid "Confirm Password"
+msgstr "Confirme Palabra Clave"
+
+msgid "Having trouble logging into a Market Metrix product?"
+msgstr ""
+"¿Está teniendo problemas para iniciar sesión en un producto de Market Metrix?"
+
+msgid "Click here to request support"
+msgstr "Haga clic aquí para solicitar soporte"
+
+msgid "Email Address"
+msgstr "Correo electrónico"
+
+msgid "Register"
+msgstr "Registrarse"
+
+msgid "Q4 2012"
+msgstr "4 trim. de 2012"
+
+msgid "Region"
+msgstr "Región"
+
+msgid "region"
+msgstr "región"
+
+msgid "Select"
+msgstr "Seleccionar"
+
+msgid "Middle East"
+msgstr "Oriente Próximo"
+
+msgid "Africa"
+msgstr "África"
+
+msgid "Select an area where we can help:"
+msgstr "Seleccione un área en la que podemos ayudar: "
+
+msgid "Sales"
+msgstr "Venta"
+
+msgid "Product Demo"
+msgstr "Una Demostración"
+
+msgid "Other"
+msgstr "Otro"
+
+msgid "North America"
+msgstr "América del Norte"
+
+msgid "South America"
+msgstr "América del Sur"
+
+msgid "Q%d %d"
+msgstr "%d trim. de %d"
+
+msgid "Find customers <br>& create <br>promoters"
+msgstr "Encontrar <br> clientes y crear promotores"
+
+msgid ""
+"<strong>Unleash positive sentiment </strong> by connecting satisfied guests "
+"with key review sites."
+msgstr ""
+"<strong>Potenciar los comentarios positivos</strong> al conectar huéspedes "
+"satisfechos con las principales páginas de opinión."
+
+msgid ""
+"<strong>Improve TripAdvisor ranking and presence</strong> with integrated "
+"reviews."
+msgstr ""
+"<strong>Mejorar el ranking y la presencia en TripAdvisor</strong> "
+"directamente con comentarios integrados en encuesta."
+
+msgid ""
+"<strong>Create targeted programs and campaigns</strong> using guest feedback."
+msgstr ""
+"<strong>Crear campañas y programas</strong>  específicos utilizando el "
+"feedback de sus huéspedes."
+
+msgid ""
+"<strong>It takes more than just a platform to connect feedback with "
+"performance.</strong> You need know-how because every company is different. "
+"Market Metrix has built hundreds of successful feedback programs. We "
+"dedicate experienced pros who work with you to shape the program that works "
+"for you."
+msgstr ""
+"<strong>No basta con una plataforma para vincular feedback y rendimiento.</"
+"strong><br />Se necesitan conocimientos especializados porque cada empresa "
+"es distinta. Market Metrix ha adaptado su plataforma a la casuística "
+"específica de cientos de clientes. Ponemos a los profesionales más "
+"experimentados a trabajar con usted para diseñar el programa idóneo para su "
+"empresa."

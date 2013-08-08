@@ -1,0 +1,972 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MM\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-07-31 02:27+0800\n"
+"Last-Translator: Sun <sun@e288.com>\n"
+"Language-Team: Team Adotz <sun@adotz.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "What We Do"
+msgstr "我们的服务项目"
+
+msgid "How We Do It"
+msgstr "我们的处理方法"
+
+msgid "Success Stories"
+msgstr "成功案例"
+
+msgid "Research"
+msgstr "研究"
+
+msgid "Overview"
+msgstr "概述"
+
+msgid "Customer Satisfaction"
+msgstr "客户满意度"
+
+msgid "Employee Feedback"
+msgstr "员工反馈"
+
+msgid "Performance Benchmarking"
+msgstr "绩效基准分析"
+
+msgid "Professional Services"
+msgstr "专业服务"
+
+msgid "Metrix Blog"
+msgstr "Metrix 博客"
+
+msgid "Request a Demo"
+msgstr "演示请求"
+
+msgid "Client Login"
+msgstr "客户登录"
+
+msgid "Contact Us"
+msgstr "联系我们"
+
+msgid "About Market Metrix"
+msgstr "关于我们"
+
+msgid "Support"
+msgstr "服务支持"
+
+msgid "News and Press"
+msgstr "新闻"
+
+msgid "Newsletter Signup"
+msgstr "新闻通讯订阅"
+
+msgid "Privacy Policy"
+msgstr "隐私政策"
+
+msgid ""
+"Thank you for your interest in Market Metrix. A sales representative will "
+"contact you shortly."
+msgstr "非常感谢您对 Market Metrix 的关注，销售代表将稍后与您联系。"
+
+msgid "All fields required except as indicated."
+msgstr "如无特别说明，所有字段均为必填字段。"
+
+msgid "First Name"
+msgstr "名字"
+
+msgid "Last Name"
+msgstr "姓氏"
+
+msgid "Title"
+msgstr "职位"
+
+msgid "optional"
+msgstr "可选"
+
+msgid "Company"
+msgstr "公司"
+
+msgid "Email"
+msgstr "电子邮件"
+
+msgid "Confirm Email"
+msgstr "确认电子邮件"
+
+msgid "Telephone"
+msgstr "电话"
+
+msgid "Your Message"
+msgstr "消息内容"
+
+msgid "Sign up for the Market Metrix Newsletter (optional)"
+msgstr "注册获取 Market Metrix 新闻通讯（可选）"
+
+msgid "Request a demo"
+msgstr "演示请求"
+
+msgid "Request a demo of our feedback intelligence platform."
+msgstr "反馈智能平台演示请求。"
+
+msgid "Thank you"
+msgstr "谢谢"
+
+msgid ""
+"We send out newsletter updates only when we have something important to "
+"share, about every month or so. And we'll never share your personal "
+"information."
+msgstr ""
+"我们仅在有重要消息分享时才会发送新闻通讯更新，约一个月左右发送一次。我们绝不"
+"会分享您的个人信息。"
+
+msgid "You have successfully signed up for the Market Metrix Newsletter."
+msgstr "您已成功注册获取 Market Metrix 新闻通讯。"
+
+msgid "Send Request"
+msgstr "发送请求"
+
+msgid "Cancel"
+msgstr "取消 "
+
+msgid "Signup"
+msgstr "注册"
+
+msgid ""
+"Thank you for your interest in Market Metrix.<br />A sales representative "
+"will contact you shortly to schedule a customized demo."
+msgstr ""
+"非常感谢您对 Market Metrix 的关注，<br />销售代表将稍后与您联系以安排定制演示"
+"相关事宜。"
+
+msgid "Market Metrix can be an integral part of your growth strategy."
+msgstr "Market Metrix 可成为您发展战略中的忠诚伙伴。"
+
+msgid "Support is available for our customers."
+msgstr "我们向客户提供有力的支持服务。"
+
+msgid "Call us, or fill out the support request form below."
+msgstr "您可通过拨打电话或填写下方的支持申请表以获得支持。"
+
+msgid "San Francisco, U.S.A."
+msgstr "美国旧金山"
+
+msgid "Barcelona, Spain"
+msgstr "西班牙巴塞罗那"
+
+msgid "Singapore"
+msgstr "新加坡"
+
+msgid "Submit Support Request"
+msgstr "提交支持申请"
+
+msgid ""
+"You have successfully submitted your support request. A Market Metrix "
+"representative will contact you shortly."
+msgstr "您已成功提交支持请求，Market Metrix 代表将稍后与您联系。"
+
+msgid ""
+"Connect feedback to results with the hospitality industry’s leading feedback "
+"intelligence platform."
+msgstr "通过酒店业领先的反馈智能平台将反馈与业绩建立连接"
+
+msgid "Our Process"
+msgstr "我们的流程"
+
+msgid "Feedback"
+msgstr "反馈"
+
+msgid "Before, during and after stay"
+msgstr "在客人入住之前、期间和之后"
+
+msgid ""
+"Open a dialogue with guests sooner, and engage them throughout their stay. "
+"Market Metrix offers a range of ways to get feedback at any point of "
+"experience."
+msgstr ""
+"尽可能早地与客人展开对话，在其入住的整个过程中赢得他们的好感。Market Metrix "
+"提供一系列方法，用于在体验服务的过程中随时获取反馈。"
+
+msgid "Case Management"
+msgstr "案例管理"
+
+msgid "For instant service resolution <br />and recovery"
+msgstr "用于即时的服务解决和恢复"
+
+msgid ""
+"Win back guest satisfaction when things go wrong to turn potential negative "
+"reviews into online raves. Market Metrix Case Management alerts you to "
+"problems, directs recovery, tracks progress and even manages follow-up  "
+"communication with the guest."
+msgstr ""
+"在出现差错时赢回客人的满意度，将潜在的负面评论转化为网上的一片赞誉。Market "
+"Metrix 案例管理会在问题发生时向您发出警报，指导问题解决，跟踪处理进度，甚至管"
+"理与客人间的后续沟通。"
+
+msgid "Benchmarking"
+msgstr "基准分析"
+
+msgid "To spot gaps and opportunities"
+msgstr "找出差距，发现机遇"
+
+msgid ""
+"Measure your performance by brand or property against your competitors to "
+"learn where you have an advantage, or room for improvement. The Market "
+"Metrix Hospitality Index (MMHI) is the world’s richest source of benchmark "
+"data."
+msgstr ""
+"以品牌或财产为标准，测评您的绩效与竞争对手间的差距，以了解您的优势或不足之"
+"处。Market Metrix 酒店业指数 (MMHI) 是世界上最丰富的基准数据来源。"
+
+msgid "Analytics"
+msgstr "分析"
+
+msgid ""
+"Turn data into insight, and<br /> connect feedback to cost<br /> and revenue"
+msgstr "将数据转化为洞察力，将反馈与成本和收入联系起来"
+
+msgid ""
+"Connect feedback with financial impact, and turn data into performance. Our "
+"cost-of-problems model lets you see how guest problems affect loyalty, and "
+"how much they cost you."
+msgstr ""
+"将反馈与财务影响连接起来，从而将数据转化为绩效。我们的问题成本模型可让您清楚"
+"看到客人问题对忠诚度的影响，以及您需要为之付出的成本。"
+
+msgid "Flexible Reporting"
+msgstr "灵活报告"
+
+msgid "Puts feedback to work across<br /> your organization"
+msgstr "将反馈融入整个企业的工作中"
+
+msgid ""
+"See what's important to you with completely configurable and customizable "
+"dashboards. Start with our role-based views, then choose from dozens of "
+"reporting widgets to create the view you want."
+msgstr ""
+"通过完全可以配置和定制的仪表板，了解对您重要的事项。从我们的基于角色的视图开"
+"始，然后从数十个报告小工具中选择适当小工具创建您所需要的视图。"
+
+msgid "Results"
+msgstr "结果"
+
+msgid "Grow revenue, improve loyalty and create promoters"
+msgstr "增加收入，提高忠诚度并形成推动力"
+
+msgid ""
+"When you put feedback to work across your organization, you grow revenue, "
+"improve loyalty, create promoters and reduce problems."
+msgstr ""
+"一旦将反馈融入整个企业的工作中，企业便可增加收入，提高忠诚度、形成推动力并可"
+"减少问题出现率。"
+
+msgid "Market Metrix Timeline"
+msgstr "Market Metrix 大事记"
+
+msgid "MMHI Global launches"
+msgstr "MMHI 全球发布"
+
+msgid "APAC operations open in Singapore"
+msgstr "APAC 业务在新加坡启动"
+
+msgid "EMEA operations open in Barcelona"
+msgstr "EMEA 业务在巴塞罗那启动"
+
+msgid "First to partner with TripAdvisor for social review data"
+msgstr "首次与 TripAdvisor 开展社会评论数据方面的合作"
+
+msgid "'Best Paper' award from Cornell Hotel and Restaurant Quarterly"
+msgstr "获得《康奈尔大学酒店及餐厅季刊》颁发的“最佳论文”奖"
+
+msgid "Hospitality Segmentation model created"
+msgstr "创建酒店业分割模型"
+
+msgid "Market Metrix Hospitality Index launched (MMHI)"
+msgstr "发布 Market Metrix 酒店业指数 (MMHI)"
+
+msgid "Emotions questions introduced"
+msgstr "引入情绪问题"
+
+msgid "First 'Software-as-a-Service' solution for customer satisfaction"
+msgstr "推出首款用于客户满意度的“软件即服务”解决方案"
+
+msgid "First email survey for hotels"
+msgstr "发起首次针对酒店的电子邮件调查"
+
+msgid "Jonathan teams up with Lenny Nash. Market Metrix is born."
+msgstr "Jonathan 与 Lenny Nash 联合创业。Market Metrix 诞生"
+
+msgid "Dr. Jonathan Barsky publishes World Class Customer Satisfaction"
+msgstr "Jonathan Barsky 博士发布《世界级客户满意度》"
+
+msgid "We measure hospitality around the world."
+msgstr "我们对全世界的酒店业进行测评。"
+
+msgid "Read customer success stories"
+msgstr "阅读客户成功案例"
+
+msgid "Market Metrix connects customer satisfaction with revenue."
+msgstr "Market Metrix 将客户满意度与收入挂钩。"
+
+msgid "And we're the only feedback platform that does."
+msgstr "我们是唯一能做到这一点的反馈平台。"
+
+msgid "Do you know how much your problems are costing?"
+msgstr "您了解各项问题的成本是多少吗？"
+
+msgid "Learn more about"
+msgstr "了解有关"
+
+msgid "what we do"
+msgstr "我们服务项目的更多信息"
+
+msgid "Our clients love their TripAdvisor scores."
+msgstr "我们的客户喜欢 TripAdvisor 分数。"
+
+msgid ""
+"Actual comparison of Market Metrix customer and competitors' satisfaction "
+"scores by quarter, as reported in TripAdvisor."
+msgstr ""
+"Market Metrix 客户与竞争对手满意度分数季度实际对比（根据 TripAdvisor 报告）。"
+
+msgid "Solve problems before they become bad reviews."
+msgstr "在问题获得差评前便将其解决。"
+
+msgid "how we do it."
+msgstr "我们的处理方法。"
+
+msgid "Learn"
+msgstr "了解"
+
+msgid "Anywhere Collection"
+msgstr "随时随地收集"
+
+msgid ""
+"Automate follow-up messages based on guest feedback to encourage promoters "
+"and recover detractors."
+msgstr ""
+"以客人反馈为基础，自动发出跟进消息，以鼓励推动者，同时改变批评者的看法。"
+
+msgid "Configurable Dashboards"
+msgstr "可配置仪表板"
+
+msgid ""
+"Monitor guest satisfaction in real-time with dashboards customized by role "
+"within your organization."
+msgstr "通过可根据企业内部角色定制的仪表板，实时监控客人满意度。"
+
+msgid "Online Reviews"
+msgstr "网上评论"
+
+msgid "Track online review data along with your guest feedback."
+msgstr "跟踪网上评论数据和客人反馈。"
+
+msgid "Benchmark Comparisons"
+msgstr "基准对比"
+
+msgid ""
+"Gauge performance against the richest source of independent customer "
+"satisfaction data available."
+msgstr "根据现有独立客户满意度数据中最丰富的数据源对绩效进行测评。"
+
+msgid ""
+"Respond immediately to guest comments, requests, and complaints by "
+"automatically assigning tasks and monitoring performance."
+msgstr "通过自动分配任务和绩效监控，即时响应客人的意见、要求和投诉。"
+
+msgid "Deep Analytics"
+msgstr "深入分析"
+
+msgid ""
+"Turn feedback into insight with a range of analytics, including cost of "
+"problems model, service value metrics, and semantic analysis."
+msgstr ""
+"通过包括问题成本模型、服务价值指标和语义分析在内的一系列分析，将反馈转化为洞"
+"察力。"
+
+msgid "TripAdvisor Booster"
+msgstr "TripAdvisor 推动器"
+
+msgid "Marketing Follow Up"
+msgstr "营销跟进"
+
+msgid ""
+"Gather survey feedback through email, phone, website, kiosk, QR code and "
+"more throughout the guest experience."
+msgstr ""
+"在整个客人体验的过程中，可通过电子邮件、电话、网站、一体机、QR 代码等途径收集"
+"调查反馈。"
+
+msgid ""
+"Boost your TripAdvisor scores by automatically posting every completed "
+"survey."
+msgstr "通过自动发布每项已完成调查的结果，推动 TripAdvisor 分数的提高。"
+
+msgid ""
+"Market Metrix lets us start conversations with our customers sooner. Now we "
+"handle any issues during their stay-before they post to the world."
+msgstr ""
+"Market Metrix 能帮助我们尽可能早地与客户展开对话。现在，一切问题在客人入住期"
+"间即可解决，从而可防止其对外发布。 "
+
+msgid "Cheryl Billio <br />Vice President of Quality <br />Red Roof Inns"
+msgstr "Cheryl Billio <br />质量副总裁 <br />Red Roof Inns"
+
+msgid ""
+"<p><strong>Market Metrix is the only feedback intelligence platform that "
+"connects satisfaction with revenue.</strong> Delivering more firsts and "
+"breakthroughs in customer satisfaction than anyone else, Market Metrix "
+"brings together your sources of feedback with analytics, reporting and know-"
+"how. Our cost-of-problems model and service-value metrics are the only way "
+"to both understand guest feedback and know the impact in dollars and cents.</"
+"p>"
+msgstr ""
+"<p><strong>Market Metrix 是唯一一个能将满意度与收入挂钩的反馈智能平台。</"
+"strong> Market Metrix 在客户满意度领域实现的创举和突破远超过任何其他公司，能"
+"够将反馈来源与分析、报告和诀窍融合在一起。我们的问题成本模型和服务价值指标是"
+"获取客人反馈并了解其成本影响的唯一方法。</p>"
+
+msgid ""
+"It's easy to know which moves to make when you know what problems are worth."
+msgstr "如果知道什么问题值得注意，就很容易知道应该采取哪些行动"
+
+msgid "Customer Metrix: Benefits & Features"
+msgstr "Customer Metrix：优点与特性"
+
+msgid ""
+"86% of our clients who use Employee <br />Metrix to manage employee "
+"engagement see customer satisfaction rise significantly during the first two "
+"years."
+msgstr ""
+"使用 Employee Metrix 管理员工敬业度的客户中，86% 的客户都在前两年显著提升了其"
+"客户的满意度。"
+
+msgid "Employee Metrix: Benefits & Features"
+msgstr "Employee Metrix：优点与特性"
+
+msgid "Jane Howard<br />Chief People Officer<br />Joie do Vivre Hotels"
+msgstr "Jane Howard <br />首席人力资源官<br /> Joie do Vivre 酒店"
+
+msgid ""
+"We intuitively knew that treating people well would help business, but we "
+"had no idea how to measure and manage the process. Market Metrix gave us the "
+"platform and measures we needed to build and value our culture."
+msgstr ""
+"我们的直观感觉告诉我们，善待员工将有利于业务发展，但对于如何测评和管理这一过"
+"程却是一头雾水。Market Metrix 为我们提供了一个建设和评估企业文化所需要的平台"
+"和方法。"
+
+msgid ""
+"<strong>Our proven approach measures employee feedback <br />along the "
+"dimensions that affect business performance,<br /> both emotional and "
+"rational.</strong></p><p>The business results can be astonishing. One "
+"typical client attributed business improvement of more than $14M to their "
+"employee engagement program.</p>"
+msgstr ""
+"<strong>我们的方法已经过实践检验，能够依据影响业务绩效的标准（包括感性和理性"
+"标准）测评员工反馈。</strong></p><p>所获得的业务绩效可以非常惊人。一位典型客"
+"户将其超过 1400 万美元的业务改进归功于所采取的员工敬业度计划。</p>"
+
+msgid "Comprehensive Survey Design"
+msgstr "综合性的调查设计"
+
+msgid "Employee Participation"
+msgstr "员工参与"
+
+msgid "Deep Reporting"
+msgstr "深入报告"
+
+msgid "Action Management"
+msgstr "行动管理"
+
+msgid "Personalized Consulting"
+msgstr "个性化咨询"
+
+msgid "Increased Loyalty"
+msgstr "提高忠诚度"
+
+msgid "Transparent View"
+msgstr "透明视图"
+
+msgid "Stronger<br>Decisions"
+msgstr "更加有力的决策"
+
+msgid ""
+"Our survey design reflects experiences gained through 15 years conducting "
+"employee satisfaction programs. And we have designed surveys in over 30 "
+"languages."
+msgstr ""
+"我们的调查设计凝聚了在 15 年从事员工满意度计划的过程中所积累的丰富经验。我们"
+"已设计出超过 30 种语言的调查。"
+
+msgid ""
+"We make participation easy while ensuring security and anonymity. Survey "
+"delivery by email and kiosks, with phone and paper survey options also "
+"available."
+msgstr ""
+"我们能够在确保安全性和匿名性的同时简化参与过程。调查可通过电子邮件和一体机进"
+"行，另外也提供电话和纸质调查选项。"
+
+msgid ""
+"Results are available through online reporting with summary dashboards, "
+"drill-down detail and comparisons to industry benchmarks."
+msgstr "通过在线报告提供调查结果以及总结仪表板、下溯详细信息和行业基准对比。"
+
+msgid ""
+"Achieve continous improvement through action management. Action plans are "
+"created based on survey results, feedback, and best-practice knowledgebase."
+msgstr ""
+"通过行动管理实现持续改进。根据调查结果、反馈和最佳实践知识库制定行动计划。"
+
+msgid ""
+"We provide personalized guidance on how to interpret survey results and how "
+"to most effectively use our online analysis and action planning tools."
+msgstr ""
+"我们就如何解读调查结果以及如何最有效地利用我们的在线分析和行动计划工具提供个"
+"性化指导。"
+
+msgid ""
+"Increase employee loyalty and commitment by better understanding key "
+"drivers, monitoring performance and responding to problems."
+msgstr ""
+"通过改善对关键驱动因素的了解、监控性能以及问题响应，提高员工的忠诚度和敬业"
+"度。"
+
+msgid ""
+"Improve management visibility and accountability by providing a clear view "
+"of performance across the organization."
+msgstr "通过提供企业绩效的清晰视图，提高管理的透明度和问责性。"
+
+msgid ""
+"Make better investments and decisions by understanding what really matters "
+"to your employees."
+msgstr "通过了解员工真正关注的问题，制定更加明智的投资和决策。"
+
+msgid "Profit from feedback is a science <br />at Market Metrix."
+msgstr "从反馈中获得收益是 Market Metrix 的一门独创技术"
+
+msgid "How We Help"
+msgstr "我们的作用"
+
+msgid ""
+"<strong>It takes more than just a platform to connect feedback with "
+"performance.</strong> You need know-how because every company is different. "
+"Market Metrix has built hundreds of successful feedback programs. We "
+"dedicate experienced pros who work with you to shape the program that works "
+"for you."
+msgstr ""
+"<strong>仅凭一个平台无法做到将反馈与绩效挂钩。</strong><br />您还需要借助诀"
+"窍，因为每个公司的情况各不相同。Market Metrix 已经构建了数百项成功的反馈计"
+"划。我们将指派经验丰富的专业人员帮助您定制最适合自己的计划。"
+
+msgid "I love working with Market Metrix."
+msgstr "我喜欢跟 Market Metrix 合作。"
+
+msgid "Connect feedback with dollars and sense."
+msgstr "将反馈与成本和感观联系起来"
+
+msgid ""
+"<strong>Know the cost of problems</strong> and the value of opportunities to "
+"make smarter investments."
+msgstr "<strong>了解问题成本和机遇价值</strong>从而进行更智慧的投资。"
+
+msgid ""
+"<strong>Isolate the drivers</strong> of loyalty and value to optimize guest "
+"experience."
+msgstr "<strong>着重加强</strong>忠诚度和价值的促进因素。"
+
+msgid "<strong>Dig deeper</strong> with service-specific analytics."
+msgstr "<strong>借助服务</strong>特定分析进行深度挖掘。"
+
+msgid "Spot gaps and opportunities"
+msgstr "找出差距，发现机遇"
+
+msgid ""
+"<strong>Benchmark performance</strong> against the richest source of "
+"independent customer sat data available."
+msgstr ""
+"<strong>根据现有独立客户</strong>满意度数据中最丰富的数据来源，对绩效进行基准"
+"比对。"
+
+msgid ""
+"<strong>Gain practical know-how</strong> based on years of award-winning "
+"research and breakthroughs."
+msgstr ""
+"<strong>根据多年来</strong>的获奖研究和突破成果，总结出切实可行的诀窍。"
+
+msgid "<strong>Apply best practices</strong> built into platform."
+msgstr "<strong>应用平台</strong>中内置的最佳实践。"
+
+msgid "Deliver <br>satisfaction <br>when it counts"
+msgstr "交付至关重要的满意度"
+
+msgid ""
+"<strong>Act on guest feedback instantly</strong> to resolve missteps before "
+"they can become negative reviews."
+msgstr ""
+"<strong>即时响应客人</strong>反馈解决不当之处，从而避免负面评论的产生。"
+
+msgid ""
+"<strong>Create accountability</strong> at the point of service for "
+"performance in the moments that count."
+msgstr "<strong>实施服务问责</strong>，确保关键情况下的绩效。"
+
+msgid ""
+"<strong>Build dynamic guest dialogue</strong> to optimize experiences "
+"before, during and after stay."
+msgstr ""
+"<strong>构建与客人间</strong>的动态对话，在客人入住前后和入住期间优化他们的体"
+"验。"
+
+msgid "Ica van Eeden<br />Chief Customer Officer <br />Sun International"
+msgstr "Ica van Eeden<br />首席客户官 <br />Sun international"
+
+msgid ""
+"<strong>Our team members are the most experienced in the business.</strong> "
+"They act as an extension of your team to design, implement and manage the "
+"feedback program that meets your needs and achieves your goals."
+msgstr ""
+"<strong>我们的团队成员拥有最为丰富的从业经验。</strong> 他们能够协助您的团队"
+"对反馈计划进行设计、实施和管理，从而满足您的需要并实现您的目标。"
+
+msgid ""
+"Contact us to hear more<br /> about how we can work<br /> with your team."
+msgstr ""
+"如要了解关于我们<br />对于客户团队协助方式的更多信息，<br />请与我们联系。"
+
+msgid ""
+"At our very core, Market Metrix is experience, knowledge and passion. We "
+"bring this to each new project and challenge."
+msgstr ""
+"就本质而言，Market Metrix 其实就是经验、知识和热情的集合。我们将这一集合优势"
+"推广到每个新项目和每项新挑战。"
+
+msgid "Satisfaction Audit"
+msgstr "满意度审计"
+
+msgid ""
+"How well are you capturing critical feedback from your clients and "
+"employees?  Is it the right feedback, and is it telling you what you need to "
+"know?  Market Metrix consultants are experts at evaluating and designing "
+"feedback programs."
+msgstr ""
+"在获取客户和员工关键反馈这件事情上，您的表现如何？反馈是否合理？能否透露了您"
+"所需要的信息？Market Metrix 顾问是评估和设计反馈计划方面的专家。"
+
+msgid "Best Practices Coaching"
+msgstr "最佳实践指导"
+
+msgid ""
+"Gathering feedback is one thing, but acting on it is another.  Market Metrix "
+"can help your teams focus on the most important changes you need to make to "
+"improve your business processes."
+msgstr ""
+"收集反馈是一回事，采取相应的行动则是另一回事。Market Metrix 可帮助您的团队着"
+"力推行您所需要的最重要转变，从而改善业务流程。"
+
+msgid "Market Segmentation"
+msgstr "市场细分"
+
+msgid ""
+"Not every customer is the same. Market Metrix' proprietary segmentation "
+"model lets you evaluate your customer mix vs. your competitors to find the "
+"most valuable opportunities."
+msgstr ""
+"每个客户的情况可能会有所不同。Market Metrix 专有的分割模型可帮助您对自己以及"
+"竞争对手的客户群进行评估，借以找出最宝贵的机会。"
+
+msgid "Advanced  Analytics"
+msgstr "先进的分析"
+
+msgid ""
+"Customer feedback programs generate lots of valuable data. Market Metrix "
+"analysts can work with you to perform custom analyses, modeling and reports "
+"to discover new insights and upside potential."
+msgstr ""
+"客户反馈计划会产生大量的宝贵数据。Market Metrix 分析可协助您执行定制分析，建"
+"模和报告，从而发现新的见解和升值潜力。"
+
+msgid ""
+"<p><strong>Social media content alone can’t measure up.</strong> Online "
+"reviews and comments are helpful. But social media over-represent passionate "
+"extremes, and leave out critical demographic segments like adults 50+.</p> "
+"<p>Hospitality Index—MMHI—is based on surveys of 40,000 travelers around the "
+"globe each quarter.  Their answers tell you what guests think about their "
+"experiences with nearly 300 hotel and casino brands—what they love, and what "
+"drives them crazy.</p>"
+msgstr ""
+"<strong>单凭社交媒体内容不足以成事。</strong>网上的评论和意见能够发挥一定的作"
+"用。然而社交媒体往往只能片面反映充满热情的极端人群的意见，而将部分关键人群"
+"（例如50 岁以上的成年人）遗漏在外。<br /><br />Market Metrix 酒店业指数 "
+"(MMHI) 每季度对全球 40,000 位旅行者进行调查，以此为基础得出分析数据。受访者的"
+"回答可帮助您了解客人对近 300 家酒店和娱乐场品牌的体验，从而了解他们的喜恶。"
+
+msgid ""
+"There have been so many success stories it's hard to know which ones to "
+"share."
+msgstr "成功案例太多了，难以决定要分享其中的哪一些。"
+
+msgid "Manuel Riego<br />Director of R&D<br />Melia Hotels International"
+msgstr "Manuel Riego<br />研发总监<br />Melia Hotels International"
+
+msgid "The Best in the World"
+msgstr "世界杰出企业"
+
+msgid ""
+"MMHI offers unlimited benchmarking details—three global regions, eight "
+"industry segments, hundreds of brands and over one hundred product and "
+"service attributes."
+msgstr ""
+"MMHI 可提供大量的基准分析详细信息，包括全球三大地区，八个细分行业，数百个品牌"
+"以及超过一百种产品和服务属性。"
+
+msgid "View by Region"
+msgstr "按地区查看"
+
+msgid "Americas"
+msgstr "美洲"
+
+msgid "Europe"
+msgstr "欧洲 "
+
+msgid "Asia Pacific"
+msgstr "亚太地区 "
+
+msgid "North, Central, South"
+msgstr "北部、中部、南部"
+
+msgid "Including Middle East & Africa"
+msgstr "包括中东和非洲"
+
+msgid "Including Asia Pacific"
+msgstr "包括亚太地区"
+
+msgid ""
+"<em class=\"ms-700\" onclick=\"javascript:lm('overlay')\" style=\"cursor:"
+"pointer;\">Learn more</em> about the benefits and deep data in MMHI."
+msgstr ""
+"<em class=\"ms-700\" onclick=\"javascript:lm('overlay')\" style=\"cursor:"
+"pointer;\">了解</em>有关 MMHI 优势和深入数据的更多信息。"
+
+msgid "Segment Average"
+msgstr "细分市场平均值 "
+
+msgid "Gaming Satisfaction"
+msgstr "游戏市场满意度"
+
+msgid "Read the case study"
+msgstr "阅读案例研究"
+
+msgid "Directions"
+msgstr "方位"
+
+msgid "Get in touch"
+msgstr "联系我们"
+
+msgid "To submit a support request, please use our"
+msgstr "如需一个支持请求，请使用我们的"
+
+# msgid "support form"
+# msgstr "支持表单"
+msgid "All rights reserved"
+msgstr "版权所有. 保留所有权利."
+
+msgid "Q3 2012"
+msgstr ""
+
+msgid "View by Score Type"
+msgstr "按分数类型查看"
+
+msgid "Red Roof Solves Guest Problems in Real Time to Generate Online Raves"
+msgstr "Red Roof 实时解决客人问题，获得网上一片赞誉"
+
+msgid "The ROI of Culture"
+msgstr "文化的投资回报"
+
+msgid ""
+"Tropicana Connects with Employees <br />and Guests to Regain Reputation "
+"and<br /> Drive Revenue"
+msgstr "Tropicana 通过员工和客人的反馈意见重拾声誉并推动收入增长"
+
+msgid ""
+"Meliá Moves Satisfaction Surveys Online to Drive Continuous Service "
+"Improvement and Business Performance"
+msgstr "Meliá 在线开展满意度调查，推动持续的服务改善和业务绩效"
+
+msgid "Continuous Guest and Employee Feedback Give Danat a Performance Edge"
+msgstr "持续的客人和员工反馈助 Danat 获得绩效优势"
+
+msgid "Performance Leaders"
+msgstr "绩效突出企业"
+
+msgid "Q4 2012"
+msgstr "2012第四季度"
+
+msgid "Constance Hotels Builds Rock-Solid Customer Experiences"
+msgstr "Constance 酒店建立可靠的客户体验"
+
+msgid "Award-winning research, articles and education. Yours for the asking."
+msgstr "获奖殊荣的研究，文章和教育，供你查询。"
+
+msgid ""
+"<strong>For the latest thinking by our experts, check out <a href=\"/blog/\" "
+"class=\"blue_link\" style=\"padding-left:0px;font-weight:bold\">Metrix Blog</"
+"a></strong>."
+msgstr ""
+"<strong>获取我们专家的最新想法，请查看</strong><a href=\"/zh/blog/\" class="
+"\"blue_link\" style=\"padding-left:0px;font-weight:bold\">Metrix博客</a>"
+
+msgid ""
+"Register for free access to exclusive Market Metrix content. Your "
+"information is always secure and private, and we will never share your "
+"information with anyone."
+msgstr ""
+"免费注册以获取 Market Metrix 的独家内容。您的个人资料是安全的和保密的,我们永"
+"远不会与任何人共享您的资料。"
+
+msgid "View by Topic"
+msgstr "根据话题查看"
+
+msgid "View by Type"
+msgstr "根据类型查看"
+
+msgid "View All"
+msgstr "查看全部"
+
+msgid "Register"
+msgstr "注册"
+
+msgid "Sign In"
+msgstr "登录"
+
+msgid "Return to Research"
+msgstr "返回调查研究"
+
+msgid "News"
+msgstr "新闻"
+
+msgid "Press Releases"
+msgstr "新闻稿"
+
+msgid "Log into a Market Metrix product."
+msgstr "登录 Market Metrix 产品。"
+
+msgid "Connect customer feedback with revenue."
+msgstr "连接客户回应与收入。"
+
+msgid "Manage employee feedback and engagement."
+msgstr "管理员工的回应和参与。"
+
+msgid "Analyze and manage TripAdvisor guest reviews."
+msgstr "分析和管理 TripAdvisor 房客评论。"
+
+msgid "Having trouble logging into a Market Metrix product?"
+msgstr "无法登录到 Market Metrix 产品？"
+
+msgid "Click here to request support"
+msgstr "支持请求"
+
+msgid "Password Help"
+msgstr "密码找回"
+
+msgid "Password"
+msgstr "密码"
+
+msgid "Confirm password"
+msgstr "确认密码"
+
+msgid "Confirm Password"
+msgstr "确认密码"
+
+msgid "Sign in to access our research documents."
+msgstr "登录访问我们的研究文档。"
+
+msgid "Email Address"
+msgstr "电子邮件"
+
+msgid "Region"
+msgstr "地区"
+
+msgid "region"
+msgstr "地区"
+
+msgid "Select"
+msgstr "选择"
+
+msgid "Middle East"
+msgstr "中东"
+
+msgid "Africa"
+msgstr "非洲"
+
+msgid "Satisfaction"
+msgstr "满意度"
+
+msgid "Luxury"
+msgstr "豪华"
+
+msgid "Upper Upscale"
+msgstr "高档豪华"
+
+msgid "Upscale"
+msgstr "高档"
+
+msgid "Upper Midscale"
+msgstr "中上级规模"
+
+msgid "Midscale"
+msgstr "中级"
+
+msgid "Economy"
+msgstr "经济"
+
+msgid "Upscale Casino"
+msgstr "高档赌博娱乐场"
+
+msgid "Casino"
+msgstr "赌博娱乐场"
+
+msgid "For support related requests and assistance, please fill out the"
+msgstr "如有与支持有关的请求和帮助，请填写"
+
+msgid "support form"
+msgstr "支持表单"
+
+msgid "Select an area where we can help:"
+msgstr "更多的查询,请选择:"
+
+msgid "Sales"
+msgstr "销售"
+
+msgid "Product Demo"
+msgstr "产品示范"
+
+msgid "Other"
+msgstr "其他"
+
+msgid "North America"
+msgstr "北美洲"
+
+msgid "South America"
+msgstr "南美洲"
+
+msgid "Q%d %d"
+msgstr "Q%d %d"
+
+msgid "Find customers <br>& create <br>promoters"
+msgstr "寻找客户和推荐者"
+
+msgid ""
+"<strong>Unleash positive sentiment </strong> by connecting satisfied guests "
+"with key review sites."
+msgstr "连接满意的客人去主要的点评网站，<strong>增加网上正面反馈</strong>。"
+
+msgid ""
+"<strong>Improve TripAdvisor ranking and presence</strong> with integrated "
+"reviews."
+msgstr "直接将客人问卷上传，<strong>改善 TripAdvisor 排名和暴光率</strong>。"
+
+msgid ""
+"<strong>Create targeted programs and campaigns</strong> using guest feedback."
+msgstr "针对服务理念和客户反馈，<strong>设计管理方案和报表</strong>。"
